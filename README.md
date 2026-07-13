@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DropLearn
-- 👀 I’m interested in cybersecurity and machine learning
-- 🌱 I’m currently learning penetration testing 
-- 💞️ I’m looking to collaborate on web applications and artificial intelligence projects
-- 📫 How to reach me ...
+
 
 
 <!---
